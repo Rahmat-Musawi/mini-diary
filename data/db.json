@@ -1,0 +1,28 @@
+{
+  "diaries": [
+    {
+      "author": "Rahmat",
+      "email": "musawi.rahmat@gmail.com",
+      "title": "Strength and Courage",
+      "body": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do\n\n(Eleanor Roosevelt)",
+      "day": "2022-10-12",
+      "id": 1
+    },
+    {
+      "author": "Rahmat",
+      "email": "musawi.rahmat@gmail.com",
+      "title": "Give joy to other people",
+      "body": "When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.\n\n(Eleanor Roosevelt)",
+      "day": "2022-10-12",
+      "id": 2
+    },
+    {
+      "author": "Rahmat",
+      "email": "musawi.rahmat@gmail.com",
+      "title": "Success",
+      "body": "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.\n\n(John Wooden)",
+      "day": "2022-10-12",
+      "id": 3
+    }
+  ]
+}
